@@ -1,7 +1,7 @@
 # odesolve.py
 #
-# Author: <insert name>
-# Date:   <insert date>
+# Author: <Bowen Zheng>
+# Date:   <2022.8.8>
 # Description: <insert description>
 #
 # You should fill out the code for the functions below so that they pass the
